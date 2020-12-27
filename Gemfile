@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-ruby "2.7.2"
+ruby "3.0.0"
 
 gem "bootsnap", ">= 1.4.4", require: false
 gem "jbuilder", "~> 2.7"
