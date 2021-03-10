@@ -9,7 +9,7 @@ gem "puma", "~> 5.0"
 gem "rails", "~> 6.1"
 gem "sass-rails", ">= 6"
 gem "turbolinks", "~> 5"
-gem "webpacker", "~> 5.0"
+gem "webpacker"
 
 group :development, :test do
   gem "byebug", platforms: %i[mri mingw x64_mingw]
