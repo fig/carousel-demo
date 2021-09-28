@@ -3,13 +3,13 @@
   "private": true,
   "dependencies": {
     "@rails/ujs": "^6.0.0",
-    "@rails/webpacker": "^5.4.0",
+    "@rails/webpacker": "^5.4.3",
     "flickity": "^2.2.1",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
   "devDependencies": {
     "webpack-bundle-analyzer": "^4.3.0",
-    "webpack-dev-server": "^4.1.0"
+    "webpack-dev-server": "^4.3.0"
   }
 }
