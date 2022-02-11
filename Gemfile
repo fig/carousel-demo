@@ -5,7 +5,7 @@ ruby "3.0.2"
 
 gem "bootsnap", ">= 1.4.4", require: false
 gem "jbuilder", "~> 2.7"
-gem "puma", "~> 5.5"
+gem "puma", "~> 5.6"
 gem "rails", "~> 6.1"
 gem "sass-rails", ">= 6"
 gem "turbolinks", "~> 5"
