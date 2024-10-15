@@ -977,10 +977,10 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.21.tgz#5de5a2385a35309427f6011992b544514d559aa1"
   integrity sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==
 
-"@rails/ujs@6.1.4":
-  version "6.1.4"
-  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.4.tgz#093d5341595a02089ed309dec40f3c37da7b1b10"
-  integrity sha512-O3lEzL5DYbxppMdsFSw36e4BHIlfz/xusynwXGv3l2lhSlvah41qviRpsoAlKXxl37nZAqK+UUF5cnGGK45Mfw==
+"@rails/ujs@6.1.709":
+  version "6.1.709"
+  resolved "https://registry.yarnpkg.com/@rails/ujs/-/ujs-6.1.709.tgz#08a09c83b389f1db07bdd67dc7d997807e4732e7"
+  integrity sha512-Hj7Zbxa3a8dtnia6ZFcva9zxgBaDaHV196GcXtsNJJ6uinvmUX+7kGcWGnvnrUwaLdDvoRo+MG2aGPlet1zQBw==
 
 "@rails/webpacker@5.4.3":
   version "5.4.3"
